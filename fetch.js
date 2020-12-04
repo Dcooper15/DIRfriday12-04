@@ -5,7 +5,7 @@ const goButton = document.querySelector('.go-button');
 
 loadingElement.style.display = 'none';
 
-async function getRandomDogs() {
+function getRandomDogs() {
  
   
   
